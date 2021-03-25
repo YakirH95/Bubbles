@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5c04a407548635d458a92ba5614b17f0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - scorer: {instanceID: 0}
+  - smallPop: {fileID: 8300000, guid: 8b4d12f38cc8ad849a4c2ebf242585d1, type: 3}
+  - pop: {fileID: 8300000, guid: d9709294d68917144ad055417a7a3b48, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
